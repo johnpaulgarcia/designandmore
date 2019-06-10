@@ -1,0 +1,29 @@
+Akzidenz Grotesk
+Avenir
+Avant Garde
+Baskerville
+Bembo
+Bodoni
+Bookman
+Caslon
+Century
+Clarendon
+Courier
+DIN
+Franklin Gothic
+Frutiger
+Futura
+Garamond
+Gill Sans
+Gotham
+Helvetica
+Letter Gothic
+Memphis
+Meta
+Mrs. Eaves
+OCRB
+Rockwell
+Sabon
+Times New Roman
+Trade Gothic
+Trajan and Univers
